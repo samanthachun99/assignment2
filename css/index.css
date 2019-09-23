@@ -1,0 +1,24 @@
+body{
+    font-family: helvetica;
+    background-color: #cccccc;
+}
+
+.container{
+    position: relative;
+
+}
+
+.title{
+    color: #c462c0;
+    font-size: 50px;
+    position: absolute;
+    margin: 80px;
+}
+
+.body{
+    color: #ecbd44;
+    font-size: 25px;
+    position: absolute;
+    margin: 150px;
+    top: 50px;
+}
