@@ -1,0 +1,37 @@
+body{
+    background-color: #69a4c9;
+    font-family: 'Playfair Display', serif;
+}
+
+.container{
+    position: relative;
+    background-color: #fff0c9;
+    border: solid white 7px;
+    margin: 75px;
+    padding: 25px;
+
+}
+
+.title{
+    font-size: 25px;
+}
+
+.author{
+
+    right: 15px;
+    font-size: 15px;
+}
+
+.text{
+    background-color: #fff0c9;
+    border: solid white 7px;
+    margin: 75px;
+    padding: 25px;
+    width: 500px;
+}
+
+
+#bodytext{
+    position: absolute;
+    left: 20%;
+}

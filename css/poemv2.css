@@ -1,0 +1,29 @@
+body{
+    background-color: #ffc42e;
+    font-family: helvetica;
+
+}
+
+.container{
+    position: relative;
+    border: solid white 30px;
+    padding: 50px;
+    margin: 50px;
+}
+
+.title{
+    font-size: 50px;
+    color: white;
+}
+
+.author{
+    font-size: 20px;
+    color: white;
+}
+
+.body{
+    color: white;
+    position: absolute;
+    left: 130px;
+    width: 500px;
+}
